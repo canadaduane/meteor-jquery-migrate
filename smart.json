@@ -1,0 +1,9 @@
+{
+  "name": "jquery-migrate",
+  "description": "jQuery-migrate - detect and restore deprecated jQuery APIs",
+  "homepage": "https://github.com/canadaduane/meteor-jquery-migrate",
+  "author": "Duane Johnson",
+  "version": "1.2.1",
+  "git": "https://github.com/canadaduane/meteor-jquery-migrate.git",
+  "packages": {}
+}
