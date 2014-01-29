@@ -3,7 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.add_files([
-    'jquery-migrate-1.2.1.js'
-  ], 'client');
+  api.use('jquery', 'client');
+  api.add_files('client/jquery-migrate-1.2.1.js', 'client');
 });
